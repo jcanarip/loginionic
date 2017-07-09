@@ -1,3 +1,3 @@
-# loginionicfirebase
+# Login Simple con Ionic y Tabs
 
-Este repositorio solo tiene un login simple utilizando firebase.
+Este repositorio solo tiene un login simple.
